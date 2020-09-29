@@ -40,6 +40,8 @@ const Dashboard: React.FC = () => {
   ): Promise<void> {
     try {
       // TODO ADD A NEW FOOD PLATE TO THE API
+      const { data: newFood } = await api.post<IFoodPlate>('/foods', food);
+      setFoods([...foods, newFood]);
     } catch (err) {
       console.log(err);
     }
@@ -75,6 +77,7 @@ const Dashboard: React.FC = () => {
         setIsOpen={toggleModal}
         handleAddFood={handleAddFood}
       />
+
       <ModalEditFood
         isOpen={editModalOpen}
         setIsOpen={toggleEditModal}
