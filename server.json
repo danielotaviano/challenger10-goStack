@@ -2,7 +2,7 @@
   "foods": [
     {
       "id": 1,
-      "name": "Ao molho",
+      "name": "UMA DELICIAddd",
       "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
       "price": "19.90",
       "available": true,
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "name": "Veggie",
+      "name": "DELICIA MESMO",
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
       "price": "21.90",
       "available": true,
@@ -23,41 +23,6 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
-    },
-    {
-      "description": "Deliciosa",
-      "price": "49.90",
-      "name": "Parmegiana",
-      "image": "https://delyshows.com.br/wp-content/uploads/2019/12/bife-%C3%A1-parmegiana-delyshows.jpg",
-      "id": 4
-    },
-    {
-      "description": "Uma delicia",
-      "price": "1000",
-      "name": "Delicia",
-      "image": "github.com/danielotaviano.png",
-      "id": 5
-    },
-    {
-      "description": "Delicia",
-      "price": "5",
-      "name": "Delicia",
-      "image": "https://static.carrefour.com.br/medias/sys_master/images/images/he6/h31/h00/h00/26652659286046.jpg",
-      "id": 6
-    },
-    {
-      "description": "dasdasd",
-      "price": "12",
-      "name": "Delciaiexemple",
-      "image": "https://static.carrefour.com.br/medias/sys_master/images/images/he6/h31/h00/h00/26652659286046.jpg",
-      "id": 7
-    },
-    {
-      "description": "delcia",
-      "price": "1290",
-      "name": "Espaguete",
-      "image": "https://s2.glbimg.com/eKPi6nXuQmf0zX5EaW1z8yxiGfw=/0x0:960x1208/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2019/7/k/y9JN9fTK2gLRaGeZID7Q/alberto-mezzetti-bbb19-espaguete-a-matriciana.jpg",
-      "id": 8
     }
   ]
 }
